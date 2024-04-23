@@ -1,0 +1,368 @@
+symptoms,specialist
+Fever,General Physician
+Cough,General Physician
+Fatigue,General Physician
+Body aches,General Physician
+Headache,General Physician
+Sore throat,General Physician
+Nausea and vomiting,General Physician
+Diarrhea,General Physician
+Shortness of breath,General Physician
+Chest pain,General Physician
+Fever,Pediatrician
+Rash,Pediatrician
+Runny nose,Pediatrician
+Cough,Pediatrician
+Ear pain,Pediatrician
+Diarrhea,Pediatrician
+Vomiting,Pediatrician
+Poor appetite,Pediatrician
+Irritability,Pediatrician
+Poor weight gain,Pediatrician
+Joint pain,Orthopedic Surgeon
+Swelling in joints,Orthopedic Surgeon
+Limited range of motion,Orthopedic Surgeon
+Muscle weakness,Orthopedic Surgeon
+Bone fractures,Orthopedic Surgeon
+Back pain,Orthopedic Surgeon
+Neck pain,Orthopedic Surgeon
+Difficulty walking,Orthopedic Surgeon
+Joint stiffness,Orthopedic Surgeon
+Deformities in bones or joints,Orthopedic Surgeon
+Headaches,Neurologist
+Dizziness,Neurologist
+Seizures,Neurologist
+Numbness or tingling sensations,Neurologist
+Muscle weakness,Neurologist
+Memory problems,Neurologist
+Coordination difficulties,Neurologist
+Speech difficulties,Neurologist
+Vision changes,Neurologist
+Changes in mood or behavior,Neurologist
+Menstrual irregularities,Gynecologist
+Pelvic pain,Gynecologist
+Abnormal vaginal bleeding,Gynecologist
+Vaginal discharge,Gynecologist
+Pain during intercourse,Gynecologist
+Breast lumps or pain,Gynecologist
+Menopausal symptoms,Gynecologist
+Urinary problems,Gynecologist
+Infertility issues,Gynecologist
+Pregnancy-related symptoms,Gynecologist
+Persistent sadness or low mood,Psychiatrist
+Anxiety or excessive worrying,Psychiatrist
+Changes in sleep patterns,Psychiatrist
+Appetite changes,Psychiatrist
+Loss of interest or pleasure in activities,Psychiatrist
+Fatigue or low energy,Psychiatrist
+Difficulty concentrating,Psychiatrist
+Thoughts of suicide or self-harm,Psychiatrist
+Hallucinations or delusions,Psychiatrist
+Impulsivity or risky behavior,Psychiatrist
+Blurred vision,Ophthalmologist
+Eye pain or discomfort,Ophthalmologist
+Redness or irritation in the eyes,Ophthalmologist
+Itchy or watery eyes,Ophthalmologist
+Sensitivity to light,Ophthalmologist
+Double vision,Ophthalmologist
+Difficulty focusing,Ophthalmologist
+Changes in color vision,Ophthalmologist
+Floaters or flashes of light in vision,Ophthalmologist
+Vision loss or decreased vision,Ophthalmologist
+Ear pain or discomfort,ENT Specialist
+Hearing loss or difficulty hearing,ENT Specialist
+Ringing in the ears (tinnitus),ENT Specialist
+Dizziness or vertigo,ENT Specialist
+Sinus congestion or pressure,ENT Specialist
+Runny or stuffy nose,ENT Specialist
+Sore throat,ENT Specialist
+Difficulty swallowing,ENT Specialist
+Hoarseness or voice changes,ENT Specialist
+Nasal polyps or growths,ENT Specialist
+High blood pressure (hypertension),Internal Medicine
+Diabetes,Internal Medicine
+High cholesterol,Internal Medicine
+Thyroid disorders,Internal Medicine
+Digestive issues,Internal Medicine
+Respiratory problems,Internal Medicine
+Heart palpitations or chest pain,Internal Medicine
+Fatigue or weakness,Internal Medicine
+Joint pain or swelling,Internal Medicine
+Skin rashes or lesions,Internal Medicine
+Fever,Family Medicine
+Cough,Family Medicine
+Sore throat,Family Medicine
+Headache,Family Medicine
+Body aches,Family Medicine
+Nausea or vomiting,Family Medicine
+Diarrhea,Family Medicine
+Skin infections or rashes,Family Medicine
+Minor injuries or wounds,Family Medicine
+Routine health screenings and check-ups,Family Medicine
+Missed periods or irregular menstrual cycles,Obstetrician
+Positive pregnancy test,Obstetrician
+Nausea or morning sickness,Obstetrician
+Breast tenderness,Obstetrician
+Fatigue,Obstetrician
+Frequent urination,Obstetrician
+Food cravings or aversions,Obstetrician
+Mood swings,Obstetrician
+Abdominal bloating or cramping,Obstetrician
+Swollen or tender breasts,Obstetrician
+Sneezing,Allergist
+Runny or stuffy nose,Allergist
+Itchy or watery eyes,Allergist
+Skin rash or hives,Allergist
+Itchy skin,Allergist
+Coughing or wheezing,Allergist
+Shortness of breath,Allergist
+Chest tightness,Allergist
+Swelling of the face,Allergist
+Swelling of the throat,Allergist
+Swelling of the lips,Allergist
+Swelling of the tongue,Allergist
+Anaphylaxis (severe allergic reaction),Allergist
+Chest pain or discomfort,Cardiothoracic Surgeon
+Shortness of breath,Cardiothoracic Surgeon
+Fatigue,Cardiothoracic Surgeon
+Dizziness or lightheadedness,Cardiothoracic Surgeon
+Irregular heartbeat (arrhythmia),Cardiothoracic Surgeon
+Swelling in the legs or abdomen,Cardiothoracic Surgeon
+Persistent cough,Cardiothoracic Surgeon
+Difficulty breathing while lying down (orthopnea),Cardiothoracic Surgeon
+Bluish skin color (cyanosis),Cardiothoracic Surgeon
+Sudden cardiac arrest,Cardiothoracic Surgeon
+Abdominal pain or discomfort,General Surgeon
+Nausea or vomiting,General Surgeon
+Bloating or distension of the abdomen,General Surgeon
+Diarrhea or constipation,General Surgeon
+Difficulty swallowing,General Surgeon
+Unexplained weight loss,General Surgeon
+Jaundice (yellowing of the skin or eyes),General Surgeon
+Blood in stools or urine,General Surgeon
+Hernias or bulges in the abdomen or groin,General Surgeon
+Skin lesions or masses,General Surgeon
+Nausea or vomiting,Anesthesiologist
+Dizziness or lightheadedness,Anesthesiologist
+Headache,Anesthesiologist
+Fatigue or weakness,Anesthesiologist
+Blurred vision,Anesthesiologist
+Difficulty concentrating,Anesthesiologist
+Muscle weakness or numbness,Anesthesiologist
+Difficulty breathing,Anesthesiologist
+Chest pain,Anesthesiologist
+Abnormal heart rhythms,Anesthesiologist
+Headaches,Neurosurgeon
+Seizures,Neurosurgeon
+Numbness or weakness in limbs,Neurosurgeon
+Difficulty walking or balancing,Neurosurgeon
+Changes in vision or hearing,Neurosurgeon
+Memory problems,Neurosurgeon
+Speech difficulties,Neurosurgeon
+Loss of coordination,Neurosurgeon
+Changes in mood or behavior,Neurosurgeon
+Chronic pain,Neurosurgeon
+Abdominal pain or distension,Pediatric Surgeon
+Vomiting or regurgitation,Pediatric Surgeon
+Constipation or diarrhea,Pediatric Surgeon
+Blood in stools or urine,Pediatric Surgeon
+Difficulty feeding or swallowing,Pediatric Surgeon
+Failure to thrive or grow,Pediatric Surgeon
+Hernias or bulges,Pediatric Surgeon
+Birth defects or abnormalities,Pediatric Surgeon
+Injuries or trauma,Pediatric Surgeon
+Tumors or masses,Pediatric Surgeon
+Desire for cosmetic improvement,Plastic Surgeon
+Facial wrinkles or lines,Plastic Surgeon
+Sagging or drooping skin,Plastic Surgeon
+Uneven or asymmetrical features,Plastic Surgeon
+Scars or skin discoloration,Plastic Surgeon
+Excess fat deposits,Plastic Surgeon
+Breasts that are too large or too small,Plastic Surgeon
+Abdominal bulges or stretch marks,Plastic Surgeon
+Birth defects or deformities,Plastic Surgeon
+Injuries or trauma resulting in disfigurement,Plastic Surgeon
+Fatigue or weakness,Pathologist
+Unexplained weight loss,Pathologist
+Fever or night sweats,Pathologist
+Enlarged lymph nodes,Pathologist
+Persistent cough or hoarseness,Pathologist
+Changes in bowel or bladder habits,Pathologist
+Unusual bleeding or bruising,Pathologist
+Skin changes or lesions,Pathologist
+Chronic pain,Pathologist
+Abnormal laboratory test results,Pathologist
+Foot pain,Podiatrist
+Heel pain (plantar fasciitis),Podiatrist
+Arch pain,Podiatrist
+Ankle pain,Podiatrist
+Toe pain or deformities,Podiatrist
+Ingrown toenails,Podiatrist
+Corns or calluses,Podiatrist
+Foot or ankle injuries,Podiatrist
+Skin conditions of the feet,Podiatrist
+Diabetic foot ulcers or neuropathy,Podiatrist
+Unexplained weight loss,Oncologist
+Fatigue or weakness,Oncologist
+Persistent or unexplained pain,Oncologist
+Fever or night sweats,Oncologist
+Lump or mass in the body,Oncologist
+Changes in bowel or bladder habits,Oncologist
+Persistent cough or hoarseness,Oncologist
+Changes in skin,Oncologist
+Difficulty swallowing or persistent indigestion,Oncologist
+Changes in moles or skin lesions,Oncologist
+Abnormalities on imaging studies,Radiologist
+Tumors or masses in various parts of the body,Radiologist
+Bone fractures or injuries,Radiologist
+Organ enlargement or abnormalities,Radiologist
+Abnormalities in blood vessels or arteries,Radiologist
+Fluid collections or effusions,Radiologist
+Infections or abscesses,Radiologist
+Signs of inflammation or swelling,Radiologist
+Changes in organ size or shape,Radiologist
+Presence of foreign bodies,Radiologist
+Crooked or crowded teeth,Orthodontist
+Gaps or spaces between teeth,Orthodontist
+Overbite or underbite,Orthodontist
+Crossbite or open bite,Orthodontist
+Misaligned jaws,Orthodontist
+Difficulty biting or chewing,Orthodontist
+Speech problems,Orthodontist
+Mouth breathing,Orthodontist
+Grinding or clenching of teeth (bruxism),Orthodontist
+Jaw pain or clicking,Orthodontist
+Tooth pain or sensitivity,Oral Surgeon
+Gum swelling or tenderness,Oral Surgeon
+Jaw pain or stiffness,Oral Surgeon
+Tooth mobility or looseness,Oral Surgeon
+Difficulty opening or closing the mouth,Oral Surgeon
+Oral infections or abscesses,Oral Surgeon
+Impacted wisdom teeth,Oral Surgeon
+Oral lesions or ulcers,Oral Surgeon
+Jaw or facial fractures,Oral Surgeon
+TMJ (temporomandibular joint) disorders,Oral Surgeon
+Persistent sadness or low mood,Psychologist
+Anxiety or excessive worrying,Psychologist
+Changes in sleep patterns,Psychologist
+Appetite changes,Psychologist
+Loss of interest or pleasure in activities,Psychologist
+Fatigue or low energy,Psychologist
+Difficulty concentrating or making decisions,Psychologist
+Irritability or agitation,Psychologist
+Thoughts of suicide or self-harm,Psychologist
+Difficulty coping with stress or life changes,Psychologist
+Difficulty speaking clearly,Speech Therapist
+Stuttering or stammering,Speech Therapist
+Voice hoarseness or raspiness,Speech Therapist
+Speech or language delays in children,Speech Therapist
+Difficulty understanding spoken language (receptive language disorder),Speech Therapist
+Difficulty expressing thoughts or ideas (expressive language disorder),Speech Therapist
+Articulation disorders,Speech Therapist
+Swallowing difficulties (dysphagia),Speech Therapist
+Speech or language difficulties following a stroke or brain injury,Speech Therapist
+Voice disorders,Speech Therapist
+Pain in muscles or joints,Physical Therapist
+Limited range of motion,Physical Therapist
+Muscle weakness or imbalance,Physical Therapist
+Balance or coordination problems,Physical Therapist
+Difficulty walking or standing,Physical Therapist
+Difficulty performing daily activities,Physical Therapist
+Post-surgical rehabilitation,Physical Therapist
+Sports injuries,Physical Therapist
+Work-related injuries,Physical Therapist
+Chronic conditions,Physical Therapist
+Difficulty performing activities of daily living,Occupational Therapist
+Decreased coordination or fine motor skills,Occupational Therapist
+Weakness or fatigue affecting daily tasks,Occupational Therapist
+Cognitive impairments affecting functional abilities,Occupational Therapist
+Sensory processing difficulties,Occupational Therapist
+Difficulty with visual perception or spatial awareness,Occupational Therapist
+Challenges with work-related tasks or productivity,Occupational Therapist
+Difficulty adjusting to disability or injury,Occupational Therapist
+Pain or discomfort interfering with daily activities,Occupational Therapist
+Need for adaptive equipment or assistive technology,Occupational Therapist
+Skin rash or irritation,Dermatologist
+Itching or burning sensation on the skin,Dermatologist
+Skin discoloration or changes in pigmentation,Dermatologist
+Skin lesions or bumps,Dermatologist
+Acne or pimples,Dermatologist
+Dry or flaky skin,Dermatologist
+Excessive sweating (hyperhidrosis),Dermatologist
+Hair loss or thinning,Dermatologist
+Nail abnormalities or infections,Dermatologist
+Signs of skin cance,Dermatologist
+Chest pain or discomfort (angina),Cardiologist
+Shortness of breath,Cardiologist
+Fatigue or weakness,Cardiologist
+Palpitations or irregular heartbeat,Cardiologist
+Dizziness or lightheadedness,Cardiologist
+Swelling in the legs,Cardiologist
+Swelling in the ankles,Cardiologist
+Swelling in the feet,Cardiologist
+High blood pressure (hypertension),Cardiologist
+High cholesterol (hyperlipidemia),Cardiologist
+Fainting or syncope,Cardiologist
+Symptoms of heart failure,Cardiologist
+Fatigue or weakness,Endocrinologist
+Weight changes,Endocrinologist
+Excessive thirst or urination,Endocrinologist
+Hunger or increased appetite,Endocrinologist
+Changes in skin texture or appearance,Endocrinologist
+Hair loss or thinning,Endocrinologist
+Changes in mood or behavior,Endocrinologist
+Menstrual irregularities or fertility issues,Endocrinologist
+Intolerance to cold or heat,Endocrinologist
+Muscle weakness or cramps,Endocrinologist
+Urinary urgency or frequency,Urologist
+Pain or burning during urination,Urologist
+Blood in the urine (hematuria),Urologist
+Difficulty starting or maintaining a urine stream,Urologist
+Incontinence (urine leakage),Urologist
+Frequent urinary tract infections (UTIs),Urologist
+Pain in the lower abdomen or pelvic region,Urologist
+Erectile dysfunction,Urologist
+Testicular pain or swelling,Urologist
+Kidney stones or other urinary tract obstructions,Urologist
+Joint pain or stiffness,Rheumatologist
+Swelling in the joints,Rheumatologist
+Warmth or redness in the joints,Rheumatologist
+Limited range of motion,Rheumatologist
+Morning stiffness lasting more than 30 minutes,Rheumatologist
+Fatigue or malaise,Rheumatologist
+Muscle weakness or pain,Rheumatologist
+Skin rashes or lesions,Rheumatologist
+Eye inflammation (uveitis),Rheumatologist
+Fever or unexplained weight loss,Rheumatologist
+Fatigue or weakness,Hematologist
+Shortness of breath,Hematologist
+Pale skin or mucous membranes,Hematologist
+Easy bruising or bleeding,Hematologist
+Frequent infections,Hematologist
+Enlarged lymph nodes or spleen,Hematologist
+Bone pain or tenderness,Hematologist
+Unexplained weight loss,Hematologist
+Abnormal blood counts,Hematologist
+Symptoms of blood clotting disorders,Hematologist
+Changes in urine frequency or volume,Nephrologist
+Blood in the urine (hematuria),Nephrologist
+Foamy urine,Nephrologist
+Difficulty urinating,Nephrologist
+Swelling in the legs,Nephrologist
+Swelling in the ankles,Nephrologist
+Swelling in the feet,Nephrologist
+High blood pressure (hypertension),Nephrologist
+Fatigue or weakness,Nephrologist
+Shortness of breath,Nephrologist
+Itching or rash,Nephrologist
+Nausea or vomiting,Nephrologist
+Chronic cough,Pulmonologist
+Shortness of breath,Pulmonologist
+Wheezing or chest tightness,Pulmonologist
+Chronic mucus production (sputum),Pulmonologist
+Chest pain,Pulmonologist
+Fatigue or weakness,Pulmonologist
+Recurrent respiratory infections,Pulmonologist
+Difficulty breathing with exertion,Pulmonologist
+Coughing up blood (hemoptysis),Pulmonologist
+Cyanosis (bluish coloration of lips or nails),Pulmonologist
