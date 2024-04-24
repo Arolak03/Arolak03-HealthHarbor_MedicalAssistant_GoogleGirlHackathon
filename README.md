@@ -6,12 +6,13 @@ Health Harbor is your personal doctor recommending system which will suggest you
 "pip install pandas"
 "pip install streamlit" 
 "pip install scikit-learn"
+"pip install matplotlib"
 
-2. Keep the doctors.csv, doctor_schedule.csv, diseases.csv and output.csv files in the same directory as that of the python script, that is, app.py
+3. Keep the doctors.csv, doctor_schedule.csv, diseases.csv and output.csv files in the same directory as that of the python script, that is, app.py
 
-3. Run the Python script using the command:  "streamlit run app.py"
+4. Run the Python script using the command:  "streamlit run app.py"
 
-4. Select the symptoms from the dropdown and the system will display the appropriate doctors, their schedule, user ratings, and a graph showing the relevance of symptoms with a particular specialist followed by another dropdown through which on choosing a category, a list of doctors belonging to that expertise will be displayed.
+5. Select the symptoms from the dropdown and the system will display the appropriate doctors, their schedule, user ratings, and a graph showing the relevance of symptoms with a particular specialist followed by another dropdown through which on choosing a category, a list of doctors belonging to that expertise will be displayed.
 
 
 # Screenshots
