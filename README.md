@@ -1,6 +1,10 @@
 # Arolak03-HealthHarbor_MedicalAssistant_GoogleGirlHackathon
 Health Harbor is your personal doctor recommending system which will suggest you appropriate doctors on the basis of  your symptoms
 
+# Prerequisite
+Python 3.x
+
+
 # Usage
 1. Install the necessary dependencies using: 
 "pip install pandas"
